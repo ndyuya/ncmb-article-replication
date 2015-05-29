@@ -1,2 +1,5 @@
 # ncmb-article-replication
-WordPress plug-ins that the replication of the article to NIFTY Cloud mobile backend.
+
+記事投稿をした際に、ニフティクラウドmobile backendへ記事データの複製を作成するWordPressプラグインです。
+
+WordPressにプラグインとして組み込み後、設定画面からニフティクラウドmobile backendのApplicationKeyとClientKeyを登録してください。
